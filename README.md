@@ -3,6 +3,11 @@ FarmersHub – The Only Helper of Farmers is an Android mobile application desig
 
 
 
+
+
+
+
+
 🧠 Technologies & Tools Used
 Frontend: XML for UI design (clean, minimal interfaces)
 
