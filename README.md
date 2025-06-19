@@ -10,8 +10,8 @@ Backend/Logic: Kotlin for all logic and navigation handling
 
 Development IDE: Android Studio
 
-API Integration:
-Government Schemes: External government portals
+API Integration:Government Schemes: External government portals
+
 Crop Market Prices: Agmarknet API
 
 Location Services: Android GPS and Google Maps integration
